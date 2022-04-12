@@ -28,7 +28,33 @@ C  C++  Androidstudio -->
 ![C++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++&logoColor=FFA518)
 ![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c&logoColor=FFA518)
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python&logoColor=FFA518)&nbsp;\
+![NumPy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy&logoColor=FFA518)
+![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas&logoColor=FFA518)
+![TensorFlow](https://img.shields.io/badge/-tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FFA518)
+![Keras](https://img.shields.io/badge/-keras-05122A?style=flat&logo=keras&logoColor=FFA518)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoCol…)
+
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushias0203) -->
+
+<!-- Actual text -->
+
+<!-- You can find me on [![LinkedIn][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+<!-- [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding) -->
+
+<!-- Links to your social media accounts -->
+
+<!-- [1]: https://twitter.com/Martin_Heinz_
+[2]: www.linkedin.com/in/ayushi-shukla-760a931bb       -->
+<!-- https://www.linkedin.com/in/heinz-martin/ -->
+
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushias0203&show_icons=true&theme=algolia)
+
