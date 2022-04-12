@@ -1,4 +1,6 @@
-## Hey there 👋, This is Ayushi Shukla
+## Hey there 👋, This is Ayushi Shukla    
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ayushias0203)
 
  ### 👨🏻‍💻 &nbsp;About Me
  <hr>
