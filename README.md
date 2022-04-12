@@ -56,5 +56,6 @@ C  C++  Androidstudio -->
 [2]: www.linkedin.com/in/ayushi-shukla-760a931bb       -->
 <!-- https://www.linkedin.com/in/heinz-martin/ -->
 
-![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushias0203&show_icons=true&theme=algolia)
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushias0203&show_icons=true&theme=algolia&class=mcss)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushias0203) -->
