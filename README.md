@@ -57,6 +57,8 @@ C  C++  Androidstudio -->
 <!-- [1]: https://twitter.com/Martin_Heinz_
 [2]: www.linkedin.com/in/ayushi-shukla-760a931bb       -->
 <!-- https://www.linkedin.com/in/heinz-martin/ -->
+### ⚙️ GitHub Analytics
+<hr>
 
 ![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushias0203&show_icons=true&theme=algolia&class=mcss)
 
