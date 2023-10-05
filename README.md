@@ -63,3 +63,5 @@ C  C++  Androidstudio -->
 ![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushias0203&show_icons=true&theme=algolia&class=mcss)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushias0203) -->
+
+[![An image of @ayushias0203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushias0203)](https://holopin.io/@ayushias0203)
